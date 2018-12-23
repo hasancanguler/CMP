@@ -1,0 +1,10 @@
+C:\Project\CMP\CMP\CMP\bin\Debug\CMP.exe.config
+C:\Project\CMP\CMP\CMP\bin\Debug\CMP.exe
+C:\Project\CMP\CMP\CMP\bin\Debug\CMP.pdb
+C:\Project\CMP\CMP\CMP\obj\Debug\CMP.csprojAssemblyReference.cache
+C:\Project\CMP\CMP\CMP\obj\Debug\CMP.Form1.resources
+C:\Project\CMP\CMP\CMP\obj\Debug\CMP.Properties.Resources.resources
+C:\Project\CMP\CMP\CMP\obj\Debug\CMP.csproj.GenerateResource.cache
+C:\Project\CMP\CMP\CMP\obj\Debug\CMP.csproj.CoreCompileInputs.cache
+C:\Project\CMP\CMP\CMP\obj\Debug\CMP.exe
+C:\Project\CMP\CMP\CMP\obj\Debug\CMP.pdb
